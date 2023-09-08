@@ -1,0 +1,20 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch ./style.scss:./style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIH7/order-summary-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIH7/order-summary-component/issues"
+  },
+  "homepage": "https://github.com/JIH7/order-summary-component#readme"
+}
